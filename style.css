@@ -1,6 +1,8 @@
-.btns {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: blue;
-        height: 5rem;
+.error,
+      .error-2 {
+        color: red;
+      }
+      button[type="submit"] {
+        margin-top: 1rem;
+        display: block;
+      }
